@@ -1,1 +1,2 @@
 GitHub 上有各种 awesome 系列，简单来说就是这个系列搜罗整理了 GitHub 上各领域的资源大汇总，比如有 awesome-android, awesome-ios, awesome-java, awesome-python 等等等，就不截图了，你们自行去感受
+Awesome 是运行于UNIX以及Linux、FreeBSD等类Unix操作系统上的窗口管理器，是采用GPL协议的自由软体。 不同於KWin和Metacity,awesome是一款Tiling window manager，直译就是"瓦片式窗口管理器"，意译为"平铺式窗口管理器"。所谓的平铺就是之所有的窗口都不会相互重叠，而是自动的被调整大小使得它们能够刚好占满整个屏幕。这和传统的桌面管理器的概念相差很大。
